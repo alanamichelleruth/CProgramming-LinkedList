@@ -1,5 +1,5 @@
-# BeginnerC-LinkedList
-Beginner C programming assignment for a course: Programming of the Hardware Software Interface.
+# CProgramming-LinkedList
+C programming assignment for a course: Programming of the Hardware Software Interface.
 
 ## Problem
 Interactive program dealing with linked lists. Each node contains a string of length at most 10, a positive integer, and a pointer to the next node of the list.
